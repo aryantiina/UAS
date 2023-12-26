@@ -146,7 +146,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 # Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
+https://aryantinagela.wordpress.com/2023/12/25/jurnal-conference-artikel-grade-jurnal/
 
 # Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
@@ -179,7 +179,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 # Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
+https://github.com/aryantiina/aryantiina
 
 # Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
