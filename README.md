@@ -154,7 +154,7 @@ https://aryantinagela.wordpress.com/2023/12/25/jurnal-conference-artikel-grade-j
 
 
 # Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
+https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sharing
 
 # Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
