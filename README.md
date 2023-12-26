@@ -164,6 +164,7 @@ https://aryantinagela.wordpress.com/2023/12/25/jurnal-conference-artikel-grade-j
 
 
 # Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+
 https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sharing
 
 # Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
