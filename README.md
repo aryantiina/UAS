@@ -158,8 +158,10 @@ https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sha
 
 # Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+<img width="960" alt="Screenshot 2023-12-26 081308" src="https://github.com/aryantiina/UAS/assets/145460588/6fdcd586-9f22-437e-8eb6-823d59261efb">
 
 # Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+
 
 
 # Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
