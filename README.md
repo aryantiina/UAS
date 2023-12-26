@@ -3,7 +3,7 @@
 # Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 
-# Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+# Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
 
 
 # Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
