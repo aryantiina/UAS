@@ -19,8 +19,7 @@ Referensi 1
 
 
 # Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
-Referensi 1
+https://aryantinagela.wordpress.com/2023/12/26/membuat-algoritma-dalam-bentuk-flow-chart/
 
 # Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
