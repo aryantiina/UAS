@@ -120,6 +120,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 # Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+<img width="960" alt="Screenshot 2023-12-28 210521" src="https://github.com/aryantiina/UAS/assets/145460588/ffcaa684-1933-486f-b87f-8f48e402bba9">
 
 # Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -132,9 +133,11 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 # Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+<img width="960" alt="Screenshot 2023-12-28 205811" src="https://github.com/aryantiina/UAS/assets/145460588/89dfc3f2-5179-4dca-91cb-1f470078bb93">
 
 # Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+<img width="956" alt="Screenshot 2023-12-28 204855" src="https://github.com/aryantiina/UAS/assets/145460588/b270dfbb-b2e5-41a9-8b3e-9ccd393d936c">
 
 # Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
