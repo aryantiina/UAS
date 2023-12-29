@@ -137,6 +137,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 # Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+![WhatsApp Image 2023-12-28 at 19 55 06_bf738558](https://github.com/aryantiina/UAS/assets/145460588/06a0c874-3397-4f24-af47-6e8d15dc81ab)
 
 # Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
