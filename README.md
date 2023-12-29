@@ -49,6 +49,7 @@ Referensi 1
 
 # Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
+https://aryantinagela.wordpress.com/2023/12/28/mendemonstrasikan-dan-menjelaskan-penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
