@@ -157,6 +157,7 @@ https://aryantinagela.wordpress.com/2023/12/25/jurnal-conference-artikel-grade-j
 
 # Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+<img width="960" alt="Screenshot 2023-12-28 195910" src="https://github.com/aryantiina/UAS/assets/145460588/691c0de2-4fb2-4023-ade3-42816aacc0bc">
 
 # Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sharing
