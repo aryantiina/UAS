@@ -28,6 +28,9 @@ Referensi 1
 
 # Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+<img width="960" alt="Screenshot 2023-12-30 190920" src="https://github.com/aryantiina/UAS/assets/145460588/ab29accc-c358-47a4-8633-73ddcde98732">
+
+<img width="960" alt="Screenshot 2023-12-30 190936" src="https://github.com/aryantiina/UAS/assets/145460588/2650d804-5f6b-4d41-9829-12d367de95c4">
 
 # Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
