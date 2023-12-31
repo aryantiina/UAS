@@ -13,6 +13,7 @@ https://aryantinagela.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi/
 
 # Windows CMD [v] ⭐⭐⭐⭐
 
+https://aryantinagela.wordpress.com/2023/12/30/windows-cmd/
 Referensi 1
 
 # Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
