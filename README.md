@@ -58,7 +58,7 @@ Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokoped
 
 # Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: 1
+https://aryantinagela.wordpress.com/2023/12/30/komponen-dari-contoh-uniform-resource-locator/
 
 # Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
