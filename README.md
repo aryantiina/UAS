@@ -24,8 +24,8 @@ https://aryantinagela.wordpress.com/2023/12/26/membuat-algoritma-dalam-bentuk-fl
 
 # Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi 1
-
+<img width="960" alt="Screenshot 2023-12-31 033644" src="https://github.com/aryantiina/UAS/assets/145460588/30bbfbbf-4188-404e-b9b5-e44b59c2510a">
+ 
 # Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 <img width="960" alt="Screenshot 2023-12-30 190920" src="https://github.com/aryantiina/UAS/assets/145460588/ab29accc-c358-47a4-8633-73ddcde98732">
