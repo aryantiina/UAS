@@ -185,6 +185,7 @@ https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sha
 
 # Eksplorasi Top Github Project yang Diminati ⭐⭐
 
+https://aryantinagela.wordpress.com/2023/12/30/eksplorasi-top-github-project-yang-diminati/
 
 # Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
