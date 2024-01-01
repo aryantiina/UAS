@@ -99,7 +99,7 @@ https://aryantinagela.wordpress.com/2023/12/30/komponen-dari-contoh-uniform-reso
 
 # 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-<img width="960" alt="Screenshot 2024-01-01 133754" src="https://github.com/aryantiina/UAS/assets/145460588/9b92daac-5824-4cd7-81e1-b351902921c5">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/963b8a80-6679-4622-9585-353ed98ab10d">
 <img width="960" alt="Screenshot 2024-01-01 133909" src="https://github.com/aryantiina/UAS/assets/145460588/83d24073-d97c-4c0a-b8a1-3bfaa5e1eab7">
 <img width="960" alt="Screenshot 2024-01-01 134012" src="https://github.com/aryantiina/UAS/assets/145460588/32d5e64a-049c-4600-aa7d-33ec3b087227">
 
