@@ -141,11 +141,30 @@ Dokumentasi API: Postman juga dapat digunakan untuk membuat dokumentasi interakt
 
 # 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/5f1060d1-1385-4309-b271-93ef2aee43ea">
+
 
 # 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/fb6fe8f6-8323-4bec-bbfa-02585f85a7c4">
+
+Banyak orang dan perusahaan memilih Amazon Web Services (AWS) karena berbagai alasan. Berikut adalah beberapa alasan mengapa AWS menjadi pilihan populer:
+
+Skalabilitas: AWS menawarkan kemampuan untuk dengan mudah meningkatkan atau menurunkan kapasitas sumber daya sesuai kebutuhan, yang memungkinkan bisnis untuk mengakomodasi pertumbuhan atau perubahan dalam permintaan dengan biaya yang efisien.
+
+Ragam Layanan: AWS menyediakan berbagai layanan cloud, termasuk komputasi, penyimpanan, basis data, analitik, kecerdasan buatan, Internet of Things (IoT), keamanan, dan banyak lagi. Ini memungkinkan pengguna untuk membangun dan mengelola aplikasi dengan berbagai kebutuhan.
+
+Keamanan: AWS memiliki berbagai fitur keamanan yang canggih dan komprehensif, termasuk alat pengamanan, kepatuhan, dan pemantauan. AWS secara konsisten berinvestasi dalam keamanan untuk melindungi data dan aplikasi pengguna.
+
+Inovasi: AWS sering kali menjadi pionir dalam inovasi cloud computing, menghadirkan layanan dan fitur baru secara teratur untuk memenuhi kebutuhan yang berkembang dari pelanggannya.
+
+Komunitas dan Ekosistem: AWS memiliki komunitas yang besar dan aktif, serta ekosistem mitra yang luas, yang mencakup perusahaan raksasa teknologi, start-up, dan konsultan yang dapat membantu pelanggan dalam memaksimalkan manfaat dari solusi AWS.
+
+Global Footprint: AWS memiliki infrastruktur global dengan pusat data di banyak wilayah di seluruh dunia. Hal ini memungkinkan pelanggan untuk menjalankan aplikasi mereka di lokasi yang paling sesuai dengan kebutuhan geografis dan kinerja mereka.
+
+Biaya: Model harga AWS, yang didasarkan pada konsumsi, memungkinkan pelanggan untuk membayar hanya untuk sumber daya yang mereka gunakan, tanpa investasi awal yang besar.
+
+Integrasi: AWS menawarkan integrasi yang baik dengan berbagai platform dan teknologi lainnya, memudahkan pelanggan untuk mengintegrasikan solusi cloud dengan infrastruktur dan aplikasi yang sudah ada.
 
 # 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
@@ -153,9 +172,12 @@ https://wordpress.com/posts/aryantinagela.wordpress.com
 https://aryantinagela.wordpress.com/2023/12/17/manajemen-waktu/
 
 # 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+Untuk mengedit foto saya menggunakan canva
+https://www.canva.com/
 
 # 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/d4f92309-599e-4c4b-af07-e41495887f6f">
 
 
 # 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
