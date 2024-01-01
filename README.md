@@ -69,8 +69,21 @@ https://github.com/aryantiina/aryantiina/blob/main/JobInterview.md
 
 # 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer Dbeaver
-Referensi 1
+DBeaver adalah salah satu alat manajemen database (Database Management Tool) yang populer dan open-source. Alat ini mendukung berbagai jenis database seperti MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, dan banyak lagi. Dengan DBeaver, pengguna dapat terhubung ke berbagai database, menjelajahi struktur database, menjalankan kueri SQL, mengelola data, dan melakukan banyak tugas lain yang berkaitan dengan manajemen database.
+
+Berikut beberapa fitur utama dari DBeaver:
+
+Dukungan Multi-Platform: DBeaver tersedia untuk Windows, macOS, dan Linux.
+Dukungan Database yang Luas: Mendukung banyak jenis database populer.
+Antarmuka Pengguna yang Intuitif: Menyediakan antarmuka yang user-friendly untuk mempermudah penggunaan.
+Pengelolaan Koneksi: Kemampuan untuk mengelola banyak koneksi database secara bersamaan.
+Editor SQL: Fitur editor SQL yang kuat dengan sintaks highlighting, autocompletion, dan fungsi lainnya.
+Visualisasi Data: Kemampuan untuk memvisualisasikan data dalam bentuk diagram, grafik, atau tabel.
+Ekstensibilitas: Dapat diperluas dengan plugin untuk menambahkan fitur tambahan.
+Dengan berbagai fitur yang ditawarkannya, DBeaver menjadi pilihan yang populer bagi banyak profesional IT dan pengembang untuk memudahkan pekerjaan mereka dalam manajemen database.
+
+<img width="587" alt="Screenshot 2024-01-01 045057" src="https://github.com/aryantiina/UAS/assets/145460588/d1b9bc34-cdea-40cc-b463-a4b54ea5b6d0">
+
 
 # 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -82,18 +95,13 @@ https://aryantinagela.wordpress.com/2023/12/30/komponen-dari-contoh-uniform-reso
 
 # 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: 1 2
+<img width="960" alt="Screenshot 2024-01-01 014111" src="https://github.com/aryantiina/UAS/assets/145460588/5a726f40-4182-4a92-a98f-fbdb8a46ccef">
 
 # 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial
-
-Isi konten halaman web : HTML
-
-Styling halaman web : CSS
-
-Interaktivitas halaman web : JavaScript
-
+<img width="960" alt="Screenshot 2024-01-01 133754" src="https://github.com/aryantiina/UAS/assets/145460588/9b92daac-5824-4cd7-81e1-b351902921c5">
+<img width="960" alt="Screenshot 2024-01-01 133909" src="https://github.com/aryantiina/UAS/assets/145460588/83d24073-d97c-4c0a-b8a1-3bfaa5e1eab7">
+<img width="960" alt="Screenshot 2024-01-01 134012" src="https://github.com/aryantiina/UAS/assets/145460588/32d5e64a-049c-4600-aa7d-33ec3b087227">
 
 
 # 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
