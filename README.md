@@ -10,11 +10,15 @@ https://aryantinagela.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi/
 
 
 # Mencoba Console Sistem Operasi
+Saya sudah mencoba 3 command yaitu:
+
+<img width="960" alt="Screenshot 2024-01-01 014145" src="https://github.com/aryantiina/UAS/assets/145460588/c791425e-3efe-4fd1-9699-77bc2c7df604">
+<img width="960" alt="Screenshot 2024-01-01 014111" src="https://github.com/aryantiina/UAS/assets/145460588/cc0639b6-b2c4-473f-b970-41fe7cfcabcb">
+<img width="960" alt="Screenshot 2024-01-01 014042" src="https://github.com/aryantiina/UAS/assets/145460588/44499cd2-b759-4442-89f9-8deac48a5ad8">
 
 # Windows CMD [v] ⭐⭐⭐⭐
 
 https://aryantinagela.wordpress.com/2023/12/30/windows-cmd/
-Referensi 1
 
 # Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
@@ -33,7 +37,23 @@ https://aryantinagela.wordpress.com/2023/12/26/membuat-algoritma-dalam-bentuk-fl
 <img width="960" alt="Screenshot 2023-12-30 190936" src="https://github.com/aryantiina/UAS/assets/145460588/2650d804-5f6b-4d41-9829-12d367de95c4">
 
 # Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+saya hanya dapat memberikan penjelasan dan panduan tentang cara menggunakan IDE tertentu atau memberikan contoh kode dan langkah-langkah dasar.
+Sebagai contoh penggunaan IDE populer seperti Visual Studio Code (VS Code):
 
+1. Instalasi VS Code:
+Kunjungi situs web resmi VS Code dan unduh installer untuk sistem operasi Anda.
+Ikuti petunjuk instalasi yang disediakan oleh installer.
+2. Membuka Proyek:
+Setelah menginstal VS Code, buka aplikasi.
+Anda akan melihat antarmuka pengguna dengan bilah menu di bagian atas, panel sisi dengan berbagai tab (mis. Explorer, Source Control, dan lainnya), serta area editor di bagian tengah.
+3. Membuat dan Mengedit File:
+Anda dapat membuat file baru dengan mengklik ikon folder di panel sisi dan memilih "New File".
+Setelah file dibuat, Anda dapat mulai menulis kode di area editor.
+4. Menjalankan Kode:
+Untuk menjalankan kode, Anda mungkin perlu menginstal ekstensi atau konfigurasi tertentu sesuai dengan bahasa pemrograman yang Anda gunakan.
+Contoh: Untuk bahasa pemrograman Python, Anda dapat menginstal ekstensi "Python" dari Marketplace VS Code dan kemudian menjalankan kode dengan menekan tombol F5 atau menggunakan terminal terintegrasi.
+5. Fitur Lain:
+VS Code dilengkapi dengan berbagai fitur lain seperti debug, terminal terintegrasi, Git integration, dan banyak lagi. Anda dapat menyesuaikan pengaturan dan ekstensi sesuai kebutuhan Anda.
 
 # Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
