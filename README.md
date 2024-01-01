@@ -201,3 +201,6 @@ https://github.com/aryantiina/aryantiina
 
 
 # Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+ Algorithms to Live By: The Computer Science of Human Decisions
+ 
+ Dapat menyelesaikan permasalahan rumit dalam suatu program yang melibatkan perhitungan tingkat tinggi.
