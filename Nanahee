@@ -1,0 +1,9 @@
+{
+  "nama": "Aryanti Nagela",
+  "umur": 18,
+  "alamat": {
+    "jalan": "Kp. Sudi",
+    "kota": "Bandung"
+  },
+  "hobi": ["menonton film", "membaca"]
+}
