@@ -106,7 +106,7 @@ https://aryantinagela.wordpress.com/2023/12/30/komponen-dari-contoh-uniform-reso
 
 # 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+https://aryantinagela.wordpress.com/2024/01/01/penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 # 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
