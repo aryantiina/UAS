@@ -110,6 +110,8 @@ https://aryantinagela.wordpress.com/2024/01/01/penerapan-teknik-search-engine-op
 
 # 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+<img width="943" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/af5b496c-f2e4-48d8-a651-f4282c6c452a">
+
 
 # 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
