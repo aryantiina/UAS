@@ -115,11 +115,28 @@ https://aryantinagela.wordpress.com/2024/01/01/penerapan-teknik-search-engine-op
 
 # 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/dc886eb6-b60f-4051-8a99-dc22410cc277">
+
 
 # 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/dc886eb6-b60f-4051-8a99-dc22410cc277">
 
 # 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+Postman adalah sebuah alat yang digunakan untuk pengembangan API (Application Programming Interface) dan pengujian API. Dengan Postman, pengembang dapat melakukan berbagai hal, termasuk:
+
+Mengirim Permintaan API: Pengguna dapat dengan mudah mengirim permintaan HTTP (seperti GET, POST, PUT, DELETE, dll.) ke server dan melihat respons yang diterima.
+
+Pengujian: Postman memungkinkan pengembang untuk menguji berbagai jenis respons yang diterima dari API, seperti respons JSON, XML, atau tipe konten lainnya.
+
+Koleksi dan Lingkungan: Pengguna dapat mengorganisir permintaan API mereka ke dalam koleksi dan menggunakan lingkungan untuk menyimpan variabel dan konfigurasi, sehingga memudahkan pengujian dan pengembangan.
+
+Skrip dan Alat Otomatisasi: Postman mendukung penggunaan skrip untuk otomatisasi pengujian dan validasi. Pengembang dapat menulis skrip menggunakan JavaScript untuk mengotomatisasi alur kerja pengujian mereka.
+
+Dokumentasi API: Postman juga dapat digunakan untuk membuat dokumentasi interaktif untuk API. Dokumentasi ini dapat berisi deskripsi permintaan, respons yang diharapkan, dan contoh permintaan.
+
+<img width="960" alt="Screenshot 2024-01-01 140713" src="https://github.com/aryantiina/UAS/assets/145460588/c5e0ba94-6a99-47b9-ac5d-9dc61b3768b6">
+<img width="960" alt="Screenshot 2024-01-01 140745" src="https://github.com/aryantiina/UAS/assets/145460588/b52f8dfa-a092-42c3-bff4-fde7a6294e3c">
 
 
 # 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
