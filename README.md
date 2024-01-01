@@ -65,8 +65,7 @@ https://github.com/aryantiina/aryantiina/blob/main/JobInterview.md
 
 # 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-Referensi installer PostgreSQL
-Referensi tambahan 1
+<img width="587" alt="Screenshot 2024-01-01 045057" src="https://github.com/aryantiina/UAS/assets/145460588/4597dc62-c6c2-4423-b63a-2498e6b5a83f">
 
 # 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
