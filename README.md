@@ -186,6 +186,7 @@ https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sha
 
 # Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+[ai-data-scientist.pdf](https://github.com/aryantiina/UAS/files/13804097/ai-data-scientist.pdf)
 
 # Eksplorasi Top Github Project yang Diminati ⭐⭐
 
@@ -193,6 +194,7 @@ https://aryantinagela.wordpress.com/2023/12/30/eksplorasi-top-github-project-yan
 
 # Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+<img width="960" alt="Screenshot 2024-01-01 012613" src="https://github.com/aryantiina/UAS/assets/145460588/c75c4b99-3a67-47d3-b39b-9b8fd1729ddb">
 
 # Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/aryantiina/aryantiina
