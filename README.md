@@ -60,6 +60,7 @@ VS Code dilengkapi dengan berbagai fitur lain seperti debug, terminal terintegra
 
 # Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+https://github.com/aryantiina/aryantiina/blob/main/JobInterview.md
 
 # Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
