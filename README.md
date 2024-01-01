@@ -190,6 +190,8 @@ https://www.canva.com/
 
 # 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+![_cbc8c9d1-bc65-4542-9a6c-488b0c4ed019](https://github.com/aryantiina/UAS/assets/145460588/58e3c44b-73c8-4282-9932-366403f0ec31)
+
 
 # 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
@@ -200,8 +202,10 @@ https://www.canva.com/
 
 # 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+Data visualization adalah proses penyajian data dalam bentuk grafis atau visual, seperti grafik, diagram, dan peta, untuk mempermudah pemahaman dan analisis. Ada banyak tools yang dapat digunakan untuk membuat visualisasi data, baik untuk keperluan profesional, penelitian, maupun presentasi.
 
 # 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
 
 
 # 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
@@ -227,6 +231,11 @@ https://aryantinagela.wordpress.com/2023/12/25/jurnal-conference-artikel-grade-j
 
 # 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+ScienceDirect adalah sebuah platform penerbitan ilmiah online yang dimiliki oleh Elsevier, salah satu penerbit ilmiah terkemuka di dunia. Platform ini menyediakan akses ke ribuan jurnal ilmiah, buku, dan artikel konferensi dalam berbagai disiplin ilmu, seperti ilmu pengetahuan hayati, ilmu fisika, ilmu kedokteran, ilmu teknik, ilmu sosial, dan banyak lagi.
+
+Melalui ScienceDirect, para peneliti, akademisi, dan profesional dapat mencari literatur ilmiah, membaca abstrak, mengunduh artikel penuh, dan mengakses sumber-sumber lain yang relevan untuk mendukung penelitian atau studi mereka. Selain itu, platform ini juga menawarkan berbagai fitur seperti alat pencarian lanjutan, pembaruan otomatis untuk topik tertentu, serta berbagai pilihan format untuk mengakses konten, termasuk versi cetak dan digital.
+
+Dengan adanya ScienceDirect, proses akses informasi ilmiah menjadi lebih mudah dan efisien, memungkinkan peneliti dan profesional di seluruh dunia untuk tetap mendapatkan informasi terbaru dan relevan dalam bidang mereka masing-masing.
 
 # 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
