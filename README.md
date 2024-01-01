@@ -8,6 +8,7 @@ https://aryantinagela.wordpress.com/2023/12/25/jenis-jenis-mesin-komputasi/
 
 # 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+https://colab.research.google.com/drive/15QM98ipFw01CiZOa9jB9_egIn8UFhrIA?hl=id
 
 # 4. Mencoba Console Sistem Operasi
 Saya sudah mencoba 3 command yaitu:
@@ -199,6 +200,8 @@ https://www.canva.com/
 
 # 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/ba327196-f998-4f40-9597-4b8bc6490645">
+
 
 # 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
@@ -206,7 +209,7 @@ Data visualization adalah proses penyajian data dalam bentuk grafis atau visual,
 
 # 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-
+https://colab.research.google.com/drive/15QM98ipFw01CiZOa9jB9_egIn8UFhrIA?hl=id
 
 # 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
