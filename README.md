@@ -119,11 +119,11 @@ https://aryantinagela.wordpress.com/2024/01/01/penerapan-teknik-search-engine-op
 # 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 <img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/82b21488-1a56-4f2c-b343-840c839af245">
-
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/dc886eb6-b60f-4051-8a99-dc22410cc277">
 
 # 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/dc886eb6-b60f-4051-8a99-dc22410cc277">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/0ebc4356-71a0-49c4-a2be-20d654f6f17e">
 
 # 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 Postman adalah sebuah alat yang digunakan untuk pengembangan API (Application Programming Interface) dan pengujian API. Dengan Postman, pengembang dapat melakukan berbagai hal, termasuk:
