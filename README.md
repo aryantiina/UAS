@@ -192,11 +192,9 @@ https://www.canva.com/
 
 <img width="700" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/c906ad74-230f-4fca-af35-eed4821db158">
 
-
 # 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-![_cbc8c9d1-bc65-4542-9a6c-488b0c4ed019](https://github.com/aryantiina/UAS/assets/145460588/58e3c44b-73c8-4282-9932-366403f0ec31)
-
+<img width="399" alt="Screenshot 2024-01-01 175742" src="https://github.com/aryantiina/UAS/assets/145460588/20a6f81d-85b8-4621-8085-253097d4f67f">
 
 # 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
