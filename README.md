@@ -281,7 +281,7 @@ https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sha
 
 # 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
-
+https://hellotalk.com/u/aryantiinaa
 
 # 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
