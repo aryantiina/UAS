@@ -227,7 +227,7 @@ https://colab.research.google.com/drive/15QM98ipFw01CiZOa9jB9_egIn8UFhrIA?hl=id
 
 # 39. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
-
+https://colab.research.google.com/drive/1qNktQvtfDDPhLNO3evuxaYU_kRfVAlUJ?hl=id#scrollTo=9Q51cii0vH5s
 
 # 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 Google Colab (Colaboratory) adalah layanan cloud gratis yang disediakan oleh Google yang memungkinkan Anda untuk menulis dan mengeksekusi kode Python dalam browser Anda, tanpa perlu menginstal atau mengatur apa pun pada mesin Anda. Untuk memproses file big data ORC di Google Colab, Anda bisa menggunakan berbagai pustaka seperti PySpark.
