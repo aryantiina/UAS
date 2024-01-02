@@ -118,7 +118,7 @@ https://aryantinagela.wordpress.com/2024/01/01/penerapan-teknik-search-engine-op
 
 # 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/dc886eb6-b60f-4051-8a99-dc22410cc277">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/82b21488-1a56-4f2c-b343-840c839af245">
 
 
 # 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
