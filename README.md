@@ -185,6 +185,8 @@ https://www.canva.com/
 
 # 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/fd7b96eb-d148-4622-aad6-0148fd331058">
+
 
 # 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
