@@ -314,3 +314,5 @@ https://github.com/aryantiina/aryantiina
  oleh Brian Christian dan Tom Griffiths
  
  Dapat menyelesaikan permasalahan rumit dalam suatu program yang melibatkan perhitungan tingkat tinggi.
+ Christian dan Griffiths menegaskan bahwa untuk mengatasi overfitting, Anda harus fokus pada hal yang penting dan 
+ mengabaikan hal lainnya.
