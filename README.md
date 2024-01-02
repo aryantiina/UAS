@@ -202,7 +202,7 @@ https://www.canva.com/
 
 # 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/ba327196-f998-4f40-9597-4b8bc6490645">
+[<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/ba327196-f998-4f40-9597-4b8bc6490645">](https://colab.research.google.com/drive/1n7t_J84T5vE024wSkAGAXM1lagpYJH9j?hl=id#scrollTo=N8A_gLP4-7K_)
 
 
 # 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
