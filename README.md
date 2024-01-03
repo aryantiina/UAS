@@ -23,7 +23,7 @@ https://aryantinagela.wordpress.com/2023/12/30/windows-cmd/
 
 # 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/763adde2-c0b9-47f5-ad5e-72ea68917e6f">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/e0e9f313-7991-4b6d-b8a2-0f741256102c">
 
 
 # 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
