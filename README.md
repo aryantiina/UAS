@@ -282,6 +282,8 @@ https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sha
 # 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 <img width="960" alt="Screenshot 2023-12-26 081308" src="https://github.com/aryantiina/UAS/assets/145460588/6fdcd586-9f22-437e-8eb6-823d59261efb">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/0ae54791-4d8c-430d-a5f9-a1b8a20b5763">
+
 
 # 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
