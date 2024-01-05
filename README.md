@@ -223,6 +223,9 @@ https://colab.research.google.com/drive/15QM98ipFw01CiZOa9jB9_egIn8UFhrIA?hl=id
 # 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 <img width="956" alt="Screenshot 2023-12-28 204855" src="https://github.com/aryantiina/UAS/assets/145460588/b270dfbb-b2e5-41a9-8b3e-9ccd393d936c">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/239d1074-7171-40d9-ae3d-e446c76c3328">
+<img width="958" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/afa3b4f8-7fe4-4fa5-8902-ce5540f98519">
+
 
 # 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -295,7 +298,10 @@ https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sha
 
 # 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sharing
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/fef3d4a5-b1f8-4051-af78-005f0681ef4b">
+
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/ef3e1d0f-0355-4e59-9b7c-36d64a3c0113">
+
 
 # 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
