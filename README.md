@@ -274,7 +274,7 @@ Dengan adanya ScienceDirect, proses akses informasi ilmiah menjadi lebih mudah d
 
 # 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-<img width="960" alt="Screenshot 2023-12-28 195910" src="https://github.com/aryantiina/UAS/assets/145460588/691c0de2-4fb2-4023-ade3-42816aacc0bc">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/c1be9dc4-1604-4d60-9f79-352bfd93157a">
 
 # 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 https://drive.google.com/drive/folders/1Ds3WqOKk2puaFW3ZvPw9z_d5PYYqFmQx?usp=sharing
