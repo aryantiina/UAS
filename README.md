@@ -144,7 +144,8 @@ Dokumentasi API: Postman juga dapat digunakan untuk membuat dokumentasi interakt
 
 # 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/5f1060d1-1385-4309-b271-93ef2aee43ea">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/52c6a6ec-2666-4e9c-bcb6-15bf5472d34c">
+<img width="960" alt="image" src="https://github.com/aryantiina/UAS/assets/145460588/b35a3a70-edae-45c9-b7ae-7ead7c3c3e76">
 
 
 # 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
